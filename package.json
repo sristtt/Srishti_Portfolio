@@ -8,9 +8,10 @@
     "build": "vite build",
     "preview": "vite preview",
     "predeploy": "npm run build",
-  "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist"
   },
   "devDependencies": {
+    "@vitejs/plugin-react": "^4.7.0",
     "gh-pages": "^6.3.0",
     "terser": "^5.43.1",
     "vite": "^7.0.4"
