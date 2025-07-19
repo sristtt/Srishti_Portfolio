@@ -27,5 +27,7 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          branch: gh-pages # Branch to deploy to
-          folder: dist     # Folder to deploy (Vite puts build files here)
+          branch: gh-pages
+          folder: dist
+          token: ${{ secrets.GITHUB_TOKEN }} # ✅ Add this line
+
