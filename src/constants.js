@@ -1,47 +1,37 @@
 export const scaleFactor = 4;
 
 export const dialogueData = {
-    pc: `Hi, I'm Srishti Sudhakar — a Computer Science (AI) undergrad at IGDTUW. I'm passionate about building full-stack web apps, machine learning solutions, and interactive games. I blend creativity and code to craft meaningful, engaging user experiences.`,
+   pc: `This is my PC. I spend most of my time coding here — Python, C++, JavaScript, and TypeScript are my go-to languages. 
+  I’ve built games, AI models, and full-stack apps on this very screen. 
+  You can peek at my work on <a href="https://github.com/sristtt" target="_blank">GitHub</a>!`,
 
-    tv: `Watch my work come alive!
-- MockMate: AI-powered interview simulator using Google Gemini and Vapi (Deployed on Vercel)
-- Raahi: AI logistics app built for Smart India Hackathon 2024 with GPS & IoT fuel tracking (Deployed on Vercel)
-- Metroidvania: 2D Kaboom.js platformer with tilemaps and animations (Deployed on Vercel)`,
+  "cs-degree": `That’s my CS degree in progress! I’m pursuing B.Tech in CSE-AI at IGDTUW (2023–2027) with a GPA of 8.10 so far. 
+  It’s been a great journey learning AI, full-stack dev, and solid CS fundamentals.`,
 
-    bed: `Here’s what I dream and work with:
-Languages: Python, C++, JavaScript, TypeScript, SQL
-Frameworks: React.js, Next.js, Tailwind CSS, ShadCN, Kaboom.js
-Tools: Firebase, Tiled, Vapi, Google Gemini API
-CS Fundamentals: DSA, DBMS, OS, CN, OOPs`,
+  "sofa-table": `That’s my sofa. When I’m not coding, I relax here and sometimes draft content. 
+  Fun fact: I once published a podcast review for Finivesta, summarizing personal finance insights for students. 
+  Not everything I do is just tech — I like exploring creative work too!`,
 
-    resume: `📍 Experience:
-• Python-ML Intern — COE-AI, IGDTUW
-  - Built a fake news detection model using Logistic Regression
-  - Co-authored research accepted at SMARTCOM 2025
+  tv: `That’s my TV! I usually watch tech creators and tutorials to keep learning. 
+  Recently, I’ve been inspired by game dev and AI videos. 
+  They fuel my ideas for projects like <a href="https://github.com/sristtt/Metroidvania-Game-.git" target="_blank">my 2D platformer</a> and AI-driven apps.`,
 
-• Contributor — Finivesta
-  - Published podcast review on personal finance for students
+  bed: `This is where I rest — and dream up new ideas. 
+  A lot of my projects (like Raahi for smart truck routing) were sparked while I was lying here, unable to sleep until I scribbled them down!`,
 
-📍 Roles:
-• Mentorship Moderator @ TechNeeds (350+ mentees)
-• Social Media Manager @ TechNeeds
-• Event Lead — InnoVortex 2.0 (1680+ registrations), SSSC Challenge`,
+  resume: `Here’s my resume! <a href="https://sristtt.github.io/Srishti_Portfolio/" target="_blank">Check it out?</a>  
+  I’ve interned as a Python-ML developer, worked on AI-powered full-stack applications, and contributed to published research. 
+  If you’ve got an interesting opportunity, reach out at <a href="mailto:sudhakarsrishti29@gmail.com">sudhakarsrishti29@gmail.com</a>.`,
 
-    projects: `🚀 Projects:
-• MockMate — AI Interview Platform
-  GitHub: github.com/sristtt/MockMate.git
+  projects: `Some of my projects are really close to my heart:  
+  - <a href="https://github.com/sristtt/MockMate.git" target="_blank">MockMate</a>: AI mock interview prep tool.  
+  - <a href="https://github.com/sristtt/Metroidvania-Game-.git" target="_blank">Metroidvania Game</a>: Pixel-style 2D platformer.  
+  - <a href="https://github.com/sristtt/Raahi.git" target="_blank">Raahi</a>: AI + IoT for smarter truck routing.`,
 
-• Raahi — Smart Truck Routing
-  GitHub: github.com/sristtt/Raahi.git
+  library: `These are my books! I’ve collected a bunch on AI, web dev, and algorithms. 
+  Truth be told, I probably haven’t finished them all (who does?). 
+  But combined with my coursework and projects, they’ve given me a strong foundation.`,
 
-• Metroidvania — 2D Kaboom Game
-  GitHub: github.com/sristtt/Metroidvania-Game-.git`,
-
-    library: `🔗 Quick Links:
-• GitHub: github.com/sristtt
-• Email: sudhakarsrishti29@gmail.com
-• Portfolio: SrishtiPortfolio
-• Mobile: +91-8368614606
-• Education: IGDTUW (CSE-AI, 2023–2027)
-  Spring Meadows: 10th – 94.4%, 12th – 86.4%`,
+  exit: `If you’d like to leave Srishti’s portfolio, you can close the tab. 
+  But hey — let’s stay in touch! <a href="mailto:sudhakarsrishti29@gmail.com">Email me</a> or explore my <a href="https://github.com/sristtt" target="_blank">GitHub</a>.`
 };
